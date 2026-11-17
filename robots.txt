@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /contracts
+Allow: /faq
+Allow: /contact
+
+Disallow: /admin
+Disallow: /login
+Disallow: /checkout
+Disallow: /dashboard
+Disallow: /account
+
+Sitemap: https://house-contract.com/sitemap.xml
