@@ -1,9 +1,7 @@
 User-agent: *
 Allow: /
-Allow: /contracts
-Allow: /faq
-Allow: /contact
 
+Disallow: /prerendered/
 Disallow: /admin
 Disallow: /login
 Disallow: /checkout
